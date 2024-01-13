@@ -1,16 +1,15 @@
-# 酒店管理系统
-
+# 酒店管理系统7
 ## 获取方式
 
-扫描下方，回复关键词  ： **酒店7**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**酒店**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
 酒店管理系统7实现了管理员对房间、房子类型、房间预定、入住消费、餐饮的增删改查功能，具体如下：
 
-![项目功能图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071943226.png)
+![项目功能图](https://www.codeshop.fun/Typora-Images/202208071943226.png)
 
 
 ## 2、项目技术
@@ -33,35 +32,27 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071945129.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208071945129.jpg)
 
 ### 4.2 其他模块
 
-![管理员信息修改](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071945492.jpg)
+![管理员信息修改](https://www.codeshop.fun/Typora-Images/202208071945492.jpg)
 
-![客房类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071945239.jpg)
+![客房类型管理](https://www.codeshop.fun/Typora-Images/202208071945239.jpg)
 
-![客房信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071945925.jpg)
+![客房信息管理](https://www.codeshop.fun/Typora-Images/202208071945925.jpg)
 
-![客房预定](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071945739.jpg)
+![客房预定](https://www.codeshop.fun/Typora-Images/202208071945739.jpg)
 
-![客户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071945628.jpg)
+![客户管理](https://www.codeshop.fun/Typora-Images/202208071945628.jpg)
 
-![入住消费](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071945183.jpg)
+![入住消费](https://www.codeshop.fun/Typora-Images/202208071945183.jpg)
 
-![餐饮管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071945047.jpg)
+![餐饮管理](https://www.codeshop.fun/Typora-Images/202208071945047.jpg)
 
-![消费管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071945849.jpg)
+![消费管理](https://www.codeshop.fun/Typora-Images/202208071945849.jpg)
 
 ### 4.3 文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071945689.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**酒店7** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![文档目录](https://www.codeshop.fun/Typora-Images/202208071945689.jpg)
 
